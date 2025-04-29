@@ -27,7 +27,7 @@ A simple Java desktop application (Swing) that connects to a public REST API to 
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Lucky01dot/CountriesCitiesApi.git
 cd countries-cities-client
 
 mvn clean package
